@@ -1,0 +1,657 @@
+{
+  "ascend": {
+    "sounds": [
+      "triggermusic:ascend"
+    ]
+  },
+  "battle-botw": {
+    "sounds": [
+      "triggermusic:battle-botw"
+    ]
+  },
+  "battle-chasm": {
+    "sounds": [
+      "triggermusic:battle-chasm"
+    ]
+  },
+  "battle-divine": {
+    "sounds": [
+      "triggermusic:battle-divine"
+    ]
+  },
+  "battle-dungeon": {
+    "sounds": [
+      "triggermusic:battle-dungeon"
+    ]
+  },
+  "battle-molduga": {
+    "sounds": [
+      "triggermusic:battle-molduga"
+    ]
+  },
+  "battle-totk": {
+    "sounds": [
+      "triggermusic:battle-totk"
+    ]
+  },
+  "beast": {
+    "sounds": [
+      "triggermusic:beast"
+    ]
+  },
+  "beneath-castle": {
+    "sounds": [
+      "triggermusic:beneath-castle"
+    ]
+  },
+  "castle": {
+    "sounds": [
+      "triggermusic:castle"
+    ]
+  },
+  "castle-sky": {
+    "sounds": [
+      "triggermusic:castle-sky"
+    ]
+  },
+  "cave-day": {
+    "sounds": [
+      "triggermusic:cave-day"
+    ]
+  },
+  "cave-night": {
+    "sounds": [
+      "triggermusic:cave-night"
+    ]
+  },
+  "death-mountain": {
+    "sounds": [
+      "triggermusic:death-mountain"
+    ]
+  },
+  "depths": {
+    "sounds": [
+      "triggermusic:depths"
+    ]
+  },
+  "depths-dive": {
+    "sounds": [
+      "triggermusic:depths-dive"
+    ]
+  },
+  "desert-field": {
+    "sounds": [
+      "triggermusic:desert-field"
+    ]
+  },
+  "dragon": {
+    "sounds": [
+      "triggermusic:dragon"
+    ]
+  },
+  "dragonhead": {
+    "sounds": [
+      "triggermusic:dragonhead"
+    ]
+  },
+  "eldin": {
+    "sounds": [
+      "triggermusic:eldin"
+    ]
+  },
+  "field-cold": {
+    "sounds": [
+      "triggermusic:field-cold"
+    ]
+  },
+  "field-day-botw": {
+    "sounds": [
+      "triggermusic:field-day-botw"
+    ]
+  },
+  "field-day-totk": {
+    "sounds": [
+      "triggermusic:field-day-totk"
+    ]
+  },
+  "field-night-botw": {
+    "sounds": [
+      "triggermusic:field-night-botw"
+    ]
+  },
+  "field-night-totk": {
+    "sounds": [
+      "triggermusic:field-night-totk"
+    ]
+  },
+  "field-volcano": {
+    "sounds": [
+      "triggermusic:field-volcano"
+    ]
+  },
+  "fire": {
+    "sounds": [
+      "triggermusic:fire"
+    ]
+  },
+  "ganon-castle": {
+    "sounds": [
+      "triggermusic:ganon-castle"
+    ]
+  },
+  "ganon2": {
+    "sounds": [
+      "triggermusic:ganon2"
+    ]
+  },
+  "ganon3": {
+    "sounds": [
+      "triggermusic:ganon3"
+    ]
+  },
+  "ganondorf": {
+    "sounds": [
+      "triggermusic:ganondorf"
+    ]
+  },
+  "geoglyph": {
+    "sounds": [
+      "triggermusic:geoglyph"
+    ]
+  },
+  "gerudo-day": {
+    "sounds": [
+      "triggermusic:gerudo-day"
+    ]
+  },
+  "gerudo-night": {
+    "sounds": [
+      "triggermusic:gerudo-night"
+    ]
+  },
+  "gerudo-ruins": {
+    "sounds": [
+      "triggermusic:gerudo-ruins"
+    ]
+  },
+  "gleeok": {
+    "sounds": [
+      "triggermusic:gleeok"
+    ]
+  },
+  "gloom": {
+    "sounds": [
+      "triggermusic:gloom"
+    ]
+  },
+  "hateno-day": {
+    "sounds": [
+      "triggermusic:hateno-day"
+    ]
+  },
+  "hateno-night": {
+    "sounds": [
+      "triggermusic:hateno-night"
+    ]
+  },
+  "kakariko-day": {
+    "sounds": [
+      "triggermusic:kakariko-day"
+    ]
+  },
+  "kakariko-night": {
+    "sounds": [
+      "triggermusic:kakariko-night"
+    ]
+  },
+  "kass": {
+    "sounds": [
+      "triggermusic:kass"
+    ]
+  },
+  "kass-cover": {
+    "sounds": [
+      "triggermusic:kass-cover"
+    ]
+  },
+  "kohga": {
+    "sounds": [
+      "triggermusic:kohga"
+    ]
+  },
+  "korok-day": {
+    "sounds": [
+      "triggermusic:korok-day"
+    ]
+  },
+  "korok-night": {
+    "sounds": [
+      "triggermusic:korok-night"
+    ]
+  },
+  "labyrinth": {
+    "sounds": [
+      "triggermusic:labyrinth"
+    ]
+  },
+  "labyrinth-depths": {
+    "sounds": [
+      "triggermusic:labyrinth-depths"
+    ]
+  },
+  "labyrinth-sky": {
+    "sounds": [
+      "triggermusic:labyrinth-sky"
+    ]
+  },
+  "lanayru": {
+    "sounds": [
+      "triggermusic:lanayru"
+    ]
+  },
+  "lightroot": {
+    "sounds": [
+      "triggermusic:lightroot"
+    ]
+  },
+  "lurelin-day": {
+    "sounds": [
+      "triggermusic:lurelin-day"
+    ]
+  },
+  "lurelin-night": {
+    "sounds": [
+      "triggermusic:lurelin-night"
+    ]
+  },
+  "mine": {
+    "sounds": [
+      "triggermusic:mine"
+    ]
+  },
+  "monster": {
+    "sounds": [
+      "triggermusic:monster"
+    ]
+  },
+  "mountain": {
+    "sounds": [
+      "triggermusic:mountain"
+    ]
+  },
+  "riding-day": {
+    "sounds": [
+      "triggermusic:riding-day"
+    ]
+  },
+  "riding-night": {
+    "sounds": [
+      "triggermusic:riding-night"
+    ]
+  },
+  "rito-frozen": {
+    "sounds": [
+      "triggermusic:rito-frozen"
+    ]
+  },
+  "rocky": {
+    "sounds": [
+      "triggermusic:rocky"
+    ]
+  },
+  "ruins": {
+    "sounds": [
+      "triggermusic:ruins"
+    ]
+  },
+  "seaside": {
+    "sounds": [
+      "triggermusic:seaside"
+    ]
+  },
+  "shrine-cave": {
+    "sounds": [
+      "triggermusic:shrine-cave"
+    ]
+  },
+  "sky": {
+    "sounds": [
+      "triggermusic:sky"
+    ]
+  },
+  "sky-gravity": {
+    "sounds": [
+      "triggermusic:sky-gravity"
+    ]
+  },
+  "skydive": {
+    "sounds": [
+      "triggermusic:skydive"
+    ]
+  },
+  "spirit": {
+    "sounds": [
+      "triggermusic:spirit"
+    ]
+  },
+  "storm": {
+    "sounds": [
+      "triggermusic:storm"
+    ]
+  },
+  "strong-botw": {
+    "sounds": [
+      "triggermusic:strong-botw"
+    ]
+  },
+  "strong-totk": {
+    "sounds": [
+      "triggermusic:strong-totk"
+    ]
+  },
+  "tarrey": {
+    "sounds": [
+      "triggermusic:tarrey"
+    ]
+  },
+  "temple": {
+    "sounds": [
+      "triggermusic:temple"
+    ]
+  },
+  "thunderhead": {
+    "sounds": [
+      "triggermusic:thunderhead"
+    ]
+  },
+  "wasteland": {
+    "sounds": [
+      "triggermusic:wasteland"
+    ]
+  },
+  "wind-temple": {
+    "sounds": [
+      "triggermusic:wind-temple"
+    ]
+  },
+  "yiga": {
+    "sounds": [
+      "triggermusic:yiga"
+    ]
+  },
+  "zonai": {
+    "sounds": [
+      "triggermusic:zonai"
+    ]
+  },
+  "zora-day": {
+    "sounds": [
+      "triggermusic:zora-day"
+    ]
+  },
+  "zora-night": {
+    "sounds": [
+      "triggermusic:zora-night"
+    ]
+  },
+  "zora-sludge": {
+    "sounds": [
+      "triggermusic:zora-sludge"
+    ]
+  },
+  "hamster": {
+    "sounds": [
+      "triggermusic:hamster"
+    ]
+  },
+  "naboris": {
+    "sounds": [
+      "triggermusic:naboris"
+    ]
+  },
+  "calamity1": {
+    "sounds": [
+      "triggermusic:calamity1"
+    ]
+  },
+  "calamity2": {
+    "sounds": [
+      "triggermusic:calamity2"
+    ]
+  },
+  "gohma": {
+    "sounds": [
+      "triggermusic:gohma"
+    ]
+  },
+  "gibdo": {
+    "sounds": [
+      "triggermusic:gibdo"
+    ]
+  },
+  "flux": {
+    "sounds": [
+      "triggermusic:flux"
+    ]
+  },
+  "frox": {
+    "sounds": [
+      "triggermusic:frox"
+    ]
+  },
+  "colgera1": {
+    "sounds": [
+      "triggermusic:colgera1"
+    ]
+  },
+  "colgera2": {
+    "sounds": [
+      "triggermusic:colgera2"
+    ]
+  },
+  "core": {
+    "sounds": [
+      "triggermusic:core"
+    ]
+  },
+  "edoras": {
+    "sounds": [
+      "triggermusic:edoras"
+    ]
+  },
+  "elves": {
+    "sounds": [
+      "triggermusic:elves"
+    ]
+  },
+  "end": {
+    "sounds": [
+      "triggermusic:end"
+    ]
+  },
+  "hobbits": {
+    "sounds": [
+      "triggermusic:hobbits"
+    ]
+  },
+  "hopes": {
+    "sounds": [
+      "triggermusic:hopes"
+    ]
+  },
+  "medium": {
+    "sounds": [
+      "triggermusic:medium"
+    ]
+  },
+  "past": {
+    "sounds": [
+      "triggermusic:past"
+    ]
+  },
+  "ruinsu": {
+    "sounds": [
+      "triggermusic:ruinsu"
+    ]
+  },
+  "scarlet": {
+    "sounds": [
+      "triggermusic:scarlet"
+    ]
+  },
+  "shortcut": {
+    "sounds": [
+      "triggermusic:shortcut"
+    ]
+  },
+  "snowdin": {
+    "sounds": [
+      "triggermusic:snowdin"
+    ]
+  },
+  "snowy": {
+    "sounds": [
+      "triggermusic:snowy"
+    ]
+  },
+  "waterfall": {
+    "sounds": [
+      "triggermusic:waterfall"
+    ]
+  },
+  "durin": {
+    "sounds": [
+      "triggermusic:durin"
+    ]
+  },
+  "weathertop": {
+    "sounds": [
+      "triggermusic:weathertop"
+    ]
+  },
+  "molgera": {
+    "sounds": [
+      "triggermusic:molgera"
+    ]
+  },
+  "crystal": {
+    "sounds": [
+      "triggermusic:crystal"
+    ]
+  },
+  "tears": {
+    "sounds": [
+      "triggermusic:tears"
+    ]
+  },
+  "greenpath": {
+    "sounds": [
+      "triggermusic:greenpath"
+    ]
+  },
+  "crossroads": {
+    "sounds": [
+      "triggermusic:crossroads"
+    ]
+  },
+  "edge": {
+    "sounds": [
+      "triggermusic:edge"
+    ]
+  },
+  "avatar": {
+    "sounds": [
+      "triggermusic:avatar"
+    ]
+  },
+  "boss-boko": {
+    "sounds": [
+      "triggermusic:boss-boko"
+    ]
+  },
+  "cavalry": {
+    "sounds": [
+      "triggermusic:cavalry"
+    ]
+  },
+  "final-battle": {
+    "sounds": [
+      "triggermusic:final-battle"
+    ]
+  },
+  "foe": {
+    "sounds": [
+      "triggermusic:foe"
+    ]
+  },
+  "godrick": {
+    "sounds": [
+      "triggermusic:godrick"
+    ]
+  },
+  "godskin": {
+    "sounds": [
+      "triggermusic:godskin"
+    ]
+  },
+  "leyndell": {
+    "sounds": [
+      "triggermusic:leyndell"
+    ]
+  },
+  "limgrave": {
+    "sounds": [
+      "triggermusic:limgrave"
+    ]
+  },
+  "liurnia": {
+    "sounds": [
+      "triggermusic:liurnia"
+    ]
+  },
+  "margit": {
+    "sounds": [
+      "triggermusic:margit"
+    ]
+  },
+  "monster-ambience": {
+    "sounds": [
+      "triggermusic:monster-ambience"
+    ]
+  },
+  "monster-forces": {
+    "sounds": [
+      "triggermusic:monster-forces"
+    ]
+  },
+  "river": {
+    "sounds": [
+      "triggermusic:river"
+    ]
+  },
+  "roundtable": {
+    "sounds": [
+      "triggermusic:roundtable"
+    ]
+  },
+  "sentinel": {
+    "sounds": [
+      "triggermusic:sentinel"
+    ]
+  },
+  "sewers": {
+    "sounds": [
+      "triggermusic:sewers"
+    ]
+  },
+  "stormveil": {
+    "sounds": [
+      "triggermusic:stormveil"
+    ]
+  },
+  "warriors": {
+    "sounds": [
+      "triggermusic:warriors"
+    ]
+  }
+}

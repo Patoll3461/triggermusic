@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "triggermusic",
+	"version": "${version}",
+	"name": "triggermusic",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.tetragon.triggermusic.TriggerMusic"
+		],
+		"client": [
+			"net.tetragon.triggermusic.TriggerMusicClient"
+		],
+		"fabric-datagen": [
+          "net.tetragon.triggermusic.TriggerMusicDataGenerator"
+		]
+	},
+	"mixins": [
+		"triggermusic.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
